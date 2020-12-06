@@ -5,7 +5,7 @@ Objectives:
 - When I open the planner, then the current day is displayed at the top of the calendar
 - When I scroll down, then I am presented with time blocks for standard business hours. I chose 9-5.
 - When I view the time blocks for that day, then each time block is color-coded to indicate whether it's in the past, present, or future
-- When I clock into a time block, then I can enter an event
+- When I click into a time block, then I can enter an event
 - When I click the save button for that time block, then the text for that event is saved in local storage
 - When I refresh the page, then the saved events persist
 
